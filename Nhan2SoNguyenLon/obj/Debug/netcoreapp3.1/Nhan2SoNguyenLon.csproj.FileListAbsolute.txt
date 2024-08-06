@@ -1,0 +1,14 @@
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\bin\Debug\netcoreapp3.1\Nhan2SoNguyenLon.exe
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\bin\Debug\netcoreapp3.1\Nhan2SoNguyenLon.deps.json
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\bin\Debug\netcoreapp3.1\Nhan2SoNguyenLon.runtimeconfig.json
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\bin\Debug\netcoreapp3.1\Nhan2SoNguyenLon.runtimeconfig.dev.json
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\bin\Debug\netcoreapp3.1\Nhan2SoNguyenLon.dll
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\bin\Debug\netcoreapp3.1\Nhan2SoNguyenLon.pdb
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.csproj.AssemblyReference.cache
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.GeneratedMSBuildEditorConfig.editorconfig
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.AssemblyInfoInputs.cache
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.AssemblyInfo.cs
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.csproj.CoreCompileInputs.cache
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.dll
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.pdb
+E:\PTTKTT\BTP1\Nhan2SoNguyenLon\obj\Debug\netcoreapp3.1\Nhan2SoNguyenLon.genruntimeconfig.cache

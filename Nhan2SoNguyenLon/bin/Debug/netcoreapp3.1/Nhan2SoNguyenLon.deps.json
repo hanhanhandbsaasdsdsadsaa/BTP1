@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Nhan2SoNguyenLon/1.0.0": {
+        "runtime": {
+          "Nhan2SoNguyenLon.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Nhan2SoNguyenLon/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
